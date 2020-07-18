@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySeekBar</string>
+    <string name="title">Select a color...</string>
+    <string name="rgbToHexaBtn">Convert to Hexa-Decimal</string>
+    <string name="hexa_text">Hexa-decimal Value for your RGB:</string>
+    <string name="background_btn">Set Background</string>
+    <string name="save_btn">Save</string>
+    <string name="default_btn">Reset</string>
+</resources>
